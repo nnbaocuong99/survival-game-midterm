@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Survive.AboutScene">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgAAAIAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>AboutScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Survive.CollisionManager">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAgAAAA=</HashCode>
+      <FileName>CollisionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Survive.CreditScene">
+    <Position X="14.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgAAAIAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>CreditScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Survive.EnemyCollisionManager">
+    <Position X="22.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAI=</HashCode>
+      <FileName>EnemyCollisionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Survive.Map">
+    <Position X="21" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgAAAIAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTemplate.ActionScene">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAEAAAAAAAAAAAAAAAAAAAAAAAAAJAAQAAAgAAAI=</HashCode>
+      <FileName>ActionScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTemplate.Enemy">
+    <Position X="19.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQDSMgAKACAAgAAIIAAIAQAABAAAQAJEAAAgSAAAAg=</HashCode>
+      <FileName>Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTemplate.Game1">
+    <Position X="21" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAACACgEAAAwAAAAAAAAAAAAAAAAACAIAAAAQAAAw=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTemplate.GameScene" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAACAABAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>GameScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTemplate.HelpScene">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAgAAAIAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>HelpScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTemplate.MenuComponent">
+    <Position X="22.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAQAgAAgAAAAAQKAIAAAAAgBAQAAAAAAAAAAA=</HashCode>
+      <FileName>MenuComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTemplate.Platform">
+    <Position X="21" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACEAABAAAAgAAAIAAIAAAAAAAAAAAQAAAAAACAAA=</HashCode>
+      <FileName>Platform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTemplate.Player">
+    <Position X="24.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQDacgECACAAgEAAIgIIAQAABAAAQMAAAAAgSgQAAg=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTemplate.Shared">
+    <Position X="22.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Shared.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameTemplate.StartScene">
+    <Position X="16.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAQAAAAAAAAAAQAAgAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>StartScene.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
